@@ -19,10 +19,10 @@ The notebook is organized into the following sections:
 **Dependencies:**
 
 - PyTorch
-- torchvision
-- numpy
-- pandas
-- matplotlib, seaborn (Optional, for visualization)   
+- TorchVision
+- Numpy
+- Pandas
+- Matplotlib, Seaborn (Optional, for visualization)   
 
 ## Usage
 
