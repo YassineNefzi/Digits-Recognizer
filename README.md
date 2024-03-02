@@ -17,11 +17,11 @@ This Python notebook implements a digit recognition model using PyTorch to class
 1. **Clone this repository:**
 
    ```bash
-   git clone [https://github.com/your-username/mnist-pytorch-recognizer.git](https://github.com/your-username/mnist-pytorch-recognizer.git)
+   git clone https://github.com/YassineNefzi/Digits-Recognizer.git)
 
 2. **Navigate to the project directory:**
    ```bash
-   cd mnist-pytorch-recognizer)
+   cd Digits-Recognizer)
 
 3. **Install required dependencies (if not already installed):**
    ```bash
