@@ -17,15 +17,15 @@ This Python notebook implements a digit recognition model using PyTorch to class
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/YassineNefzi/Digits-Recognizer.git)
+   git clone https://github.com/YassineNefzi/Digits-Recognizer.git
 
 2. **Navigate to the project directory:**
    ```bash
-   cd Digits-Recognizer)
+   cd Digits-Recognizer
 
 3. **Install required dependencies (if not already installed):**
    ```bash
-   pip install torch torchvision numpy pandas matplotlib seaborn # Optional)
+   pip install torch torchvision numpy pandas matplotlib seaborn # Optional
 
 4. **Run the notebook:**
    ```bash
