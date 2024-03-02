@@ -29,4 +29,4 @@ This Python notebook implements a digit recognition model using PyTorch to class
 
 4. **Run the notebook:**
    ```bash
-   jupyter notebook)
+   jupyter notebook
